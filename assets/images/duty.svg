@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="潮年会活动落地页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="潮年会活动" transform="translate(-937.000000, -2663.000000)">
+            <g id="icon_play" transform="translate(937.000000, 2663.000000)">
+                <circle id="Oval-2" stroke="#FFFFFF" stroke-width="1.6" fill-opacity="0.34" fill="#000000" cx="29" cy="29" r="28"></circle>
+                <path d="M34.2398287,20.3937925 L42.3259247,33.4342606 C43.2572747,34.9362513 42.7946791,36.9088637 41.2926885,37.8402137 C40.7862622,38.1542371 40.2022144,38.3206191 39.60633,38.3206191 L23.4341381,38.3206191 C21.6668269,38.3206191 20.2341381,36.8879303 20.2341381,35.1206191 C20.2341381,34.5247347 20.4005201,33.9406869 20.7145434,33.4342606 L28.8006394,20.3937925 C29.7319894,18.8918019 31.7046018,18.4292062 33.2065925,19.3605563 C33.6260821,19.6206722 33.9797128,19.9743029 34.2398287,20.3937925 Z" id="Triangle" fill="#FFFFFF" transform="translate(31.520454, 28.600165) rotate(90.000000) translate(-31.520454, -28.600165) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

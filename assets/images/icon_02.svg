@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_02</title>
+    <desc>Created with Sketch.</desc>
+    <g id="视频拍摄落地页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="视频拍摄制作服务" transform="translate(-715.000000, -640.000000)">
+            <g id="icon_02" transform="translate(715.000000, 640.000000)">
+                <path d="M40.2857143,7.75 L29.6266234,7.75 C23.6393546,7.75 18.7857143,12.6036403 18.7857143,18.5909091 L18.7857143,18.6818182 C18.7857143,24.6188792 23.5986532,29.4318182 29.5357143,29.4318182 C35.4727753,29.4318182 40.2857143,24.6188792 40.2857143,18.6818182 L40.2857143,7.75 Z" id="Rectangle-3" stroke="#FF0043" stroke-width="1.5"></path>
+                <path d="M32.0674659,34.8911301 C31.2378437,34.7883252 30.3929124,34.7353896 29.5357143,34.7353896 C18.1941525,34.7353896 9,44.0022231 9,55.4334416" id="Oval" stroke="#FF0043" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Group" transform="translate(40.074426, 40.358677) rotate(45.000000) translate(-40.074426, -40.358677) translate(35.074426, 24.358677)" stroke="#FF0043" stroke-width="1.5">
+                    <rect id="Rectangle-2" x="0.75" y="0.75" width="8.35714286" height="5.12337662" rx="2.56168831"></rect>
+                    <path d="M4.92857143,30.3961782 L8.45438448,26.8424931 C8.8725153,26.4210569 9.10714286,25.851447 9.10714286,25.2577789 L9.10714286,3 C9.10714286,1.75735931 8.09978354,0.75 6.85714286,0.75 L3,0.75 C1.75735931,0.75 0.75,1.75735931 0.75,3 L0.75,25.2577789 C0.75,25.851447 0.984627562,26.4210569 1.40275838,26.8424931 L4.92857143,30.3961782 Z" id="Rectangle-4"></path>
+                </g>
+                <rect id="Rectangle-5" fill="#FF0043" x="29.5357143" y="55.9467532" width="24.6428571" height="1.39090909" rx="0.695454545"></rect>
+                <path d="M33.0207406,22.103485 C32.1288446,23.0024315 30.8967017,23.5584416 29.5357143,23.5584416 C28.1747269,23.5584416 26.942584,23.0024316 26.050688,22.103485" id="Combined-Shape" stroke="#FF0043" stroke-width="1.5" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
